@@ -28,3 +28,5 @@ DATE_PREFERENCES = {'November': np.arange(3, 16)}
 
 ![Alt Text](https://github.com/Ieremie/usa-visa-scrapper/blob/main/visa_web_scraper/selenium.gif)
 ![Alt Text](https://github.com/Ieremie/usa-visa-scrapper/blob/main/visa_web_scraper/output.gif)
+![Alt Text](https://github.com/Ieremie/usa-visa-scrapper/blob/main/visa_web_scraper/email.png)
+
