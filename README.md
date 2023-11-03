@@ -25,3 +25,6 @@ MONTH_INDEX = 0
 # the dates that you are interested in. The script will try to reschedule to the first available date in this list
 DATE_PREFERENCES = {'November': np.arange(3, 16)}
 ```
+
+![Alt Text](https://github.com/Ieremie/usa-visa-scrapper/blob/main/visa_web_scraper/selenium.gif)
+![Alt Text](https://github.com/Ieremie/usa-visa-scrapper/blob/main/visa_web_scraper/output.gif)
